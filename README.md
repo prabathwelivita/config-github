@@ -1,1 +1,1 @@
-# config-github
+# config-github and how it work
